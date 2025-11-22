@@ -1,12 +1,13 @@
 # Simulador-de-cajero-de-supermercado-REWE
 
-### Búsqueda de productos en la página de REWE
+
+### Búsqueda de productos en la página de REWE
 
 https://www.rewe.de/shop/productList?search=<producto>
 
 ### Productos más comprados con código, más importantes a aprenderse
 
-[!NOTE] Los productos BIOS tienen el código impreso/pegados en la cubierta. Kakis tienen todos sus código. Kiwi (normalmente tienen el código)
+[!NOTE] Los productos BIOS tienen el código impreso/pegado en la cubierta. Kakis tienen todos sus códigos. Kiwi (normalmente tienen el código)
 
 [!NOTE] Código del DHL  para desblear dispositivo de escaneo 3537
 
@@ -49,28 +50,28 @@ https://www.rewe.de/shop/productList?search=<producto>
 * Los pimientos (amarillo, verde, rojo y naranja) deben pesarse por separado.
 
 
-## Otras cosas 
+### Otras cosas 
 
 Kiwi Gold - 3279
 Kiwi Grün - 4030
 Plátano banderole (tiene código) - 1800
 Plátano BIO - 4238
 
-### Tener en cuenta
+## Tener en cuenta
 
 - Los valores de dinero que entrega el cliente o de _Auszahlung_ se ponen sin coma, siempre poniendo en formato euros + céntimos, por ejemplo, 20 euros sería 2000, 5 euros 12 céntimos sería 512, 30 céntimos sería 030. 
-- Solicitud de dinero adicional extra como un banco (Auszahlung): Se pueden dar hasta 200 euros y solo funciona con tarjetas de pago Girokonto/Girocard/EC Card con un número de pin. Para eso, se pone en el teclado la cifra de dinero que desea el cliente (BETRAG) + "KARTENZAHLUNG" y automáticamente se agrega esta cantidad de dinero a lo que se cobraría de la tarjeta y no olvidar pulsar después "KARTENZAHLUNG" siempre (no "SUMME"). Este valor de dinero a sacar no sale en la pantalla para que otros clientes no lo vean. 
-- Impresión de hasta los últimos 3 recibos: Se elecciona la opción "BONKOPIE" y se puede ir seleccionando varias veces hasta que nos ubiquemos en la compra deseada y despés podemos darle a "EINGABE" para imprimir ese recibo.
+- Solicitud de dinero adicional como en un banco (Auszahlung): Se pueden dar hasta 200 euros y solo funciona con tarjetas de pago Girokonto/Girocard/EC Card con un número de pin. Para eso, se pone en el teclado la cifra de dinero que desea el cliente (BETRAG) + "KARTENZAHLUNG" y automáticamente se agrega esta cantidad de dinero a lo que se cobraría de la tarjeta y no olvidar pulsar después "KARTENZAHLUNG" siempre (no "SUMME"). Este valor de dinero a sacar no sale en la pantalla para que otros clientes no lo vean. 
+- Impresión de hasta los últimos 3 recibos: Se elecciona la opción "BONKOPIE" y se puede ir seleccionando varias veces hasta que nos ubiquemos en la compra deseada y después podemos darle a "EINGABE" para imprimir ese recibo.
 - A la hora de alguien querer comprar un "GUTSCHEIN" con cierta cantidad de dinero, en este caso se pone la cantidad de dinero que el cliente quiere en el GUTSCHEIN + EINGABE, la computadora informa sí está correcto o corregirlo, y con EINGABE se puede seleccionar que está correcto.
-- EINZAHLUNGEN: Cuando el cliente viene y tiene que escanear un código que tiene en el Mobile o un papel y después, esa cantidad se le puede pagar en efectivo (BAR).  
+- EINZAHLUNGEN: Cuando el cliente viene y tiene que escanear un código que tiene en el móvil o un papel y después, esa cantidad se le puede pagar en efectivo (BAR).  
 - Sí se va a comprar el mismo producto repetidas veces, se puede poner el número de veces + "MENGE" + escaneo del producto.
-- Stornos: Con el botón "SOFORT STORNO" se puede stornar la última entrada y con "ZEILEN STORNO" se puede stornar un producto determinado en una línea deseada. Tener en cuenta que el primer producto de entrada no se le puede hacer un STORNO pero al agregarse más productos, este no pasa a ser el primero y se puede STORNAR.
-- Cuando se pasa un GUTSCHEIN tapar un código pequeño que aparece a la izquierda o sino se escanea doble.
-- Sí se desea conocer el precio de algo, existe un botón "PREIS ABFRAGE" que sirve para chequear esto. 
+- Stornos: Con el botón "SOFORT STORNO" se puede stornar la última entrada y con "ZEILEN STORNO" se puede stornar un producto determinado en una línea deseada. Tener en cuenta que el primer producto de entrada no se le puede hacer un STORNO, pero al agregarse más productos, este no pasa a ser el primero y se puede STORNAR.
+- Cuando se pasa un GUTSCHEIN tapar un código pequeño que aparece a la izquierda o si no se escanea doble.
+- Si se desea conocer el precio de algo, existe un botón "PREIS ABFRAGE" que sirve para chequear esto. 
 
 
 ## Preguntar
 
-- Cómo es lo de las cajas de bebidas, en qué botón se selecciona > Kiste/Flasche ?
+- ¿Cómo es lo de las cajas de bebidas, en qué botón se selecciona? > Kiste/Flasche ?
 - En qué situaciones se usa el botón "LÖSCHEN": En todos los momentos en que algo no funciona bien, o que uno está inseguro (como poner una entrada de datos incorrecta) o cualquier mensaje extraño que salga, pues seleccionar LÖSCHEN.
 - Cómo funciona eso de los platos plásticos que le hechan comida adentro y despue´s se paga por kgs

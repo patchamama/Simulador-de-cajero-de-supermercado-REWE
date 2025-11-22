@@ -1,0 +1,40 @@
+[
+    {
+        "es": "Remolacha",
+        "de": "Rote Bete",
+        "en": "Beetroot",
+        "rewe_id": 697,
+        "unidad": "kg",
+        "categoria": {
+            "es": "Raíz",
+            "en": "Root vegetable",
+            "de": "Wurzelgemüse"
+        },
+        "imagen": "https://img.rewe-static.de/0468444/24567038_digital-image.png",
+        "link": "https://www.rewe.de/shop/productList?search=Rote%20Bete",
+        "comments": {
+            "es": "",
+            "en": "",
+            "de": ""
+        }
+    },
+    {
+        "es": "Col blanca",
+        "de": "Weißkohl",
+        "en": "White cabbage",
+        "rewe_id": 232,
+        "unidad": "kg",
+        "categoria": {
+            "es": "Verdura",
+            "en": "Vegetable",
+            "de": "Gemüse"
+        },
+        "imagen": "https://img.rewe-static.de/0570290/24569669_digital-image.png",
+        "link": "https://www.rewe.de/shop/productList?search=Weißkohl",
+        "comments": {
+            "es": "",
+            "en": "",
+            "de": ""
+        }
+    }
+]

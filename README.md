@@ -12,7 +12,8 @@ https://www.rewe.de/shop/productList?search=<producto>
 [!NOTE] Código del DHL  para desblear dispositivo de escaneo 3537
 
 
-<details open> <summary><strong>📌 Ver tabla ordenada por NOMBRE (ES)</strong></summary> <br> 
+### Tabla ordenada por NOMBRE (ES) 
+
 | Producto (ES)                | Producto (DE) (link)                                                                                      | Nº REWE | Unidad   | Imagen | Categoría |
 |------------------------------|-------------------------------------------------------------------------------------------------------------|---------|----------|--------|-----------|
 | Aguacate                     | [Avocado](https://www.rewe.de/shop/productList?search=Avocado)                                             | 117     | unidad   | ![](https://img.rewe-static.de/1371623/23269789_digital-image.png) | Fruta |
@@ -48,9 +49,8 @@ https://www.rewe.de/shop/productList?search=<producto>
 | Tomate grande (Fleisch)      | [Fleischtomaten](https://www.rewe.de/shop/productList?search=Fleischtomaten)                               | 637     | kg       | ![](https://img.rewe-static.de/0475556/24570149_digital-image.png) | Verdura |
 | Zanahorias                   | [Karotten mit Grün](https://www.rewe.de/shop/productList?search=Karotten%20mit%20Grün)                 | 265     | kg       | ![](https://img.rewe-static.de/0483010/7361800_digital-image.png) | Raíz |
 
-<br> </details>
+### Tabla ordenada por ID o número del producto
 
-<details open> <summary><strong>📌 Ver tabla ordenada por ID o número del producto</strong></summary> <br> 
 | Producto (ES)                | Producto (DE) (link)                                                                                      | Nº REWE | Unidad   | Imagen | Categoría |
 |------------------------------|-------------------------------------------------------------------------------------------------------------|---------|----------|--------|-----------|
 | Plátano Rewe (normal)        | [REWE Beste Wahl Banane](https://www.rewe.de/shop/productList?search=REWE%20Beste%20Wahl%20Banane)       | 100     | kg       | ![](https://img.rewe-static.de/1028378/21012012_digital-image.png) | Fruta |

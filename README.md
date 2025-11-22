@@ -12,6 +12,7 @@ https://www.rewe.de/shop/productList?search=<producto>
 [!NOTE] Código del DHL  para desblear dispositivo de escaneo 3537
 
 
+<details open> <summary><strong>📌 Ver tabla ordenada por NOMBRE (ES)</strong></summary> <br> 
 | Producto (ES)                | Producto (DE) (link)                                                                                      | Nº REWE | Unidad   | Imagen | Categoría |
 |------------------------------|-------------------------------------------------------------------------------------------------------------|---------|----------|--------|-----------|
 | Aguacate                     | [Avocado](https://www.rewe.de/shop/productList?search=Avocado)                                             | 117     | unidad   | ![](https://img.rewe-static.de/1371623/23269789_digital-image.png) | Fruta |
@@ -47,6 +48,43 @@ https://www.rewe.de/shop/productList?search=<producto>
 | Tomate grande (Fleisch)      | [Fleischtomaten](https://www.rewe.de/shop/productList?search=Fleischtomaten)                               | 637     | kg       | ![](https://img.rewe-static.de/0475556/24570149_digital-image.png) | Verdura |
 | Zanahorias                   | [Karotten mit Grün](https://www.rewe.de/shop/productList?search=Karotten%20mit%20Grün)                 | 265     | kg       | ![](https://img.rewe-static.de/0483010/7361800_digital-image.png) | Raíz |
 
+<br> </details>
+
+<details open> <summary><strong>📌 Ver tabla ordenada por ID o número del producto</strong></summary> <br> 
+| Producto (ES)                | Producto (DE) (link)                                                                                      | Nº REWE | Unidad   | Imagen | Categoría |
+|------------------------------|-------------------------------------------------------------------------------------------------------------|---------|----------|--------|-----------|
+| Plátano Rewe (normal)        | [REWE Beste Wahl Banane](https://www.rewe.de/shop/productList?search=REWE%20Beste%20Wahl%20Banane)       | 100     | kg       | ![](https://img.rewe-static.de/1028378/21012012_digital-image.png) | Fruta |
+| Gengibre                     | [Ingwer](https://www.rewe.de/shop/productList?search=Ingwer)                                             | 102     | kg       | ![](https://img.rewe-static.de/1218820/24569461_digital-image.png) | Raíz |
+| Aguacate                     | [Avocado](https://www.rewe.de/shop/productList?search=Avocado)                                           | 117     | unidad   | ![](https://img.rewe-static.de/1371623/23269789_digital-image.png) | Fruta |
+| Porree                       | [Porree](https://www.rewe.de/shop/productList?search=Porree)                                             | 125     | unidad   | ![](https://img.rewe-static.de/8311846/7360610_digital-image.png) | Verdura |
+| Sellerie                     | [Knollensellerie](https://www.rewe.de/shop/productList?search=Knollensellerie)                           | 141     | kg       | ![](https://img.rewe-static.de/0470767/21288886_digital-image.png) | Verdura |
+| Pepinos mini                  | [Mini Gurke](https://www.rewe.de/shop/productList?search=Mini%20Gurke)                                   | 165     | unidad   | ![](https://img.rewe-static.de/7238557/28430588-digital-image.png) | Verdura |
+| Pepino                       | [Gurke](https://www.rewe.de/shop/productList?search=Gurke)                                               | 111     | unidad   | ![](https://img.rewe-static.de/0483303/24569873-digital-image.png) | Verdura |
+| Col blanca                   | [Weiskohl](https://www.rewe.de/shop/productList?search=Weiskohl)                                         | 232     | kg       | ![](https://img.rewe-static.de/0570290/24569669_digital-image.png) | Verdura |
+| Pimiento verde               | [Paprika grün](https://www.rewe.de/shop/productList?search=Paprika%20grün)                               | 234     | kg*      | ![](https://img.rewe-static.de/0483516/24570152-digital-image.png) | Verdura |
+| Spilzkohl                    | [Spilzkohl](https://www.rewe.de/shop/productList?search=Spilzkohl)                                       | 233     | kg       | ![](https://img.rewe-static.de/0482366/24569671_digital-image.png) | Verdura |
+| Pimiento naranja             | [Paprika orange](https://www.rewe.de/shop/productList?search=Paprika%20orange)                             | 235     | kg*      | ![](https://img.rewe-static.de/0483540/24570154-digital-image.png) | Verdura |
+| Calabacín                    | [Zucchini](https://www.rewe.de/shop/productList?search=Zucchini)                                         | 260     | kg       | ![](https://img.rewe-static.de/0482161/24570156-digital-image.png) | Verdura |
+| Cebollino                    | [Lauchzwiebeln](https://www.rewe.de/shop/productList?search=Lauchzwiebeln)                               | 261     | unidad   | ![](https://img.rewe-static.de/0482404/31686352-digital-image.png) | Hierba fresca |
+| Berenjena                    | [Aubergine](https://www.rewe.de/shop/productList?search=Aubergine)                                       | 262     | kg       | ![](https://img.rewe-static.de/8514957/32078973-digital-image.png) | Verdura |
+| Zanahorias                   | [Karotten mit Grün](https://www.rewe.de/shop/productList?search=Karotten%20mit%20Grün)                   | 265     | kg       | ![](https://img.rewe-static.de/0483010/7361800-digital-image.png) | Raíz |
+| Kohlrabi                     | [Kohlrabi](https://www.rewe.de/shop/productList?search=Kohlrabi)                                         | 285     | unidad   | ![](https://img.rewe-static.de/0570311/11327870_digital-image.png) | Verdura |
+| Pimiento rojo                | [Paprika rot](https://www.rewe.de/shop/productList?search=Paprika%20rot)                                   | 289     | kg*      | ![](https://img.rewe-static.de/1902921/23275435-digital-image.png) | Verdura |
+| Pimiento amarillo            | [Paprika gelb](https://www.rewe.de/shop/productList?search=Paprika%20gelb)                                 | 290     | kg*      | ![](https://img.rewe-static.de/0483494/24570153-digital-image.png) | Verdura |
+| Tomate grande (Fleisch)      | [Fleischtomaten](https://www.rewe.de/shop/productList?search=Fleischtomaten)                               | 637     | kg       | ![](https://img.rewe-static.de/0475556/24570149-digital-image.png) | Verdura |
+| Tomate (normal/racimo)       | [Rispentomaten](https://www.rewe.de/shop/productList?search=Rispentomaten)                                 | 660     | kg       | ![](https://img.rewe-static.de/0475360/30888821-digital-image.png) | Verdura |
+| Boniato                      | [Süßkartoffel](https://www.rewe.de/shop/productList?search=Süßkartoffel)                                   | 678     | kg       | ![](https://img.rewe-static.de/0475963/24569668-digital-image.png?imwidth=1680&impolicy=pdp) | Tubérculo |
+| Remolacha                    | [Rote Bete](https://www.rewe.de/shop/productList?search=Rote%20Bete)                                       | 697     | kg       | ![](https://img.rewe-static.de/0468444/24567038_digital-image.png) | Raíz |
+| Cebolla                      | [Zwiebeln](https://www.rewe.de/shop/productList?search=Zwiebeln)                                           | 721     | kg       | ![](https://img.rewe-static.de/9578896/50530242-digital-image.png) | Verdura |
+| Plátano chiquita             | [Chiquita Banane](https://www.rewe.de/shop/productList?search=Chiquita%20Banane)                           | 601     | kg       | ![](https://img.rewe-static.de/7230923/24568904-digital-image.png) | Fruta |
+| Pera manchada                | [Birne bunt](https://www.rewe.de/shop/productList?search=Birne%20bunt)                                     | 606     | kg       | ![](https://img.rewe-static.de/2435716/25626156-digital-image.png) | Fruta |
+| Granadas                     | [Granatapfel](https://www.rewe.de/shop/productList?search=Granatapfel)                                     | 684     | unidad   | ![](https://img.rewe-static.de/0475556/24570149-digital-image.png) | Fruta |
+| Papas                        | [REWE Beste Wahl Kartoffeln](https://www.rewe.de/shop/productList?search=REWE%20Beste%20Wahl%20Kartoffeln) | 690     | kg       | ![](https://img.rewe-static.de/2594391/27954017-digital-image.png) | Tubérculo |
+| Fenchel                      | [Fenchel](https://www.rewe.de/shop/productList?search=Fenchel)                                             | 4515    | kg       | ![](https://img.rewe-static.de/0483923/11973930-digital-image.png) | Verdura |
+| Ajo fresco                   | [Knoblauch](https://www.rewe.de/shop/productList?search=Knoblauch)                                         | 318     | kg       | ![](https://img.rewe-static.de/0466247/7360210_digital-image.png) | Condimento |
+| Ajo                          | [Knowblauch](https://www.rewe.de/shop/productList?search=Knowblauch)                                       | 1613    | unidad   | ![](https://img.rewe-static.de/1041139/21288186-digital-image.png) | Condimento |
+
+<br> </details>
 * Los pimientos (amarillo, verde, rojo y naranja) deben pesarse por separado.
 
 

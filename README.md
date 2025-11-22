@@ -95,7 +95,15 @@ Kiwi Grün - 4030
 Plátano banderole (tiene código) - 1800
 Plátano BIO - 4238
 
-## Tener en cuenta
+### Dashboard de administración de la tienda REWE (para ver productos, etc):
+
+En la carpeta del proyecto, la carpeta `dashboard` contiene todas las fotos del dashboard de administración de la tienda REWE, para ver productos, categorías, etc. De aquí se puede sacar el layout o estructura de cómo está organizado todo en el software de la tienda REWE y así poder entender mejor cómo funciona el cajero automático. Hay capturas de pantalla de las diferentes secciones del dashboard, como categorías: Brötchen, Gemüse, Obst, Süsses y esto es lo que hay que implementar en el simulador del cajero automático.
+
+Como en el dashboard no se ven los códigos de los productos, hay que buscar los productos en el json (productos.json)[./productos.json] y así poder agregarlos al simulador del cajero automático cuando se está haciendo la simulación y se teclea el código del producto, para que aparezca el nombre del producto, precio, etc. Sería necesario hacer una sección visual que me permita ver los productos que hay en el json (productos.json) y así poder aprenderme los códigos de los productos más comunes que se venden en la tienda REWE, para así poder usarlos en el simulador del cajero automático.
+
+En el caso de los panes (brötchen), en el dashboard solo se ven los nombres de los productos, pero no los códigos, en este caso no hay que aprenderse el código de los productos pero sí el nombre y para ello necesito aprenderme con las imágenes de la carpeta `products_pictures` los nombres de los productos de panadería que hay en la tienda REWE con la ayuda de las imágenes que ahí aparecen, y así puedo identificarlos, visualmente aprendiéndome los nombres y para ellos necesito una especie de quiz o juego que me permita aprenderme los nombres de los productos de panes, pero también las frutas (obst), snacks, süsses que aparecen en esta carpeta de imágenes `products_pictures`. Así que hay que hacer un script o programa que me permita aprenderme los nombres de los productos con las imágenes que hay en esta carpeta `products_pictures`.
+
+# Instrucciones para el uso del cajero automático de supermercado REWE
 
 - Los valores de dinero que entrega el cliente o de _Auszahlung_ se ponen sin coma, siempre poniendo en formato euros + céntimos, por ejemplo, 20 euros sería 2000, 5 euros 12 céntimos sería 512, 30 céntimos sería 030. 
 - Solicitud de dinero adicional como en un banco (Auszahlung): Se pueden dar hasta 200 euros y solo funciona con tarjetas de pago Girokonto/Girocard/EC Card con un número de pin. Para eso, se pone en el teclado la cifra de dinero que desea el cliente (BETRAG) + "KARTENZAHLUNG" y automáticamente se agrega esta cantidad de dinero a lo que se cobraría de la tarjeta y no olvidar pulsar después "KARTENZAHLUNG" siempre (no "SUMME"). Este valor de dinero a sacar no sale en la pantalla para que otros clientes no lo vean. 
@@ -105,10 +113,12 @@ Plátano BIO - 4238
 - Sí se va a comprar el mismo producto repetidas veces, se puede poner el número de veces + "MENGE" + escaneo del producto.
 - Stornos: Con el botón "SOFORT STORNO" se puede stornar la última entrada y con "ZEILEN STORNO" se puede stornar un producto determinado en una línea deseada. Tener en cuenta que el primer producto de entrada no se le puede hacer un STORNO, pero al agregarse más productos, este no pasa a ser el primero y se puede STORNAR.
 - Cuando se pasa un GUTSCHEIN tapar un código pequeño que aparece a la izquierda o si no se escanea doble.
-- Si se desea conocer el precio de algo, existe un botón "PREIS ABFRAGE" que sirve para chequear esto. 
+- Si se desea conocer el precio de algo, existe un botón "PREIS ABFRAGE" que sirve para chequear esto.
+
+Con esta sección se puede hacer un quiz o juego de preguntas frecuentes para aprenderse el uso del cajero automático de supermercado REWE.
 
 
-## Preguntar
+## Pendiente a preguntar
 
 - ¿Cómo es lo de las cajas de bebidas, en qué botón se selecciona? > Kiste/Flasche ?
 - En qué situaciones se usa el botón "LÖSCHEN": En todos los momentos en que algo no funciona bien, o que uno está inseguro (como poner una entrada de datos incorrecta) o cualquier mensaje extraño que salga, pues seleccionar LÖSCHEN.

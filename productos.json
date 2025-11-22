@@ -1,40 +1,389 @@
 [
-    {
-        "es": "Remolacha",
-        "de": "Rote Bete",
-        "en": "Beetroot",
-        "rewe_id": 697,
-        "unidad": "kg",
-        "categoria": {
-            "es": "Raíz",
-            "en": "Root vegetable",
-            "de": "Wurzelgemüse"
-        },
-        "imagen": "https://img.rewe-static.de/0468444/24567038_digital-image.png",
-        "link": "https://www.rewe.de/shop/productList?search=Rote%20Bete",
-        "comments": {
-            "es": "",
-            "en": "",
-            "de": ""
-        }
-    },
-    {
-        "es": "Col blanca",
-        "de": "Weißkohl",
-        "en": "White cabbage",
-        "rewe_id": 232,
-        "unidad": "kg",
-        "categoria": {
-            "es": "Verdura",
-            "en": "Vegetable",
-            "de": "Gemüse"
-        },
-        "imagen": "https://img.rewe-static.de/0570290/24569669_digital-image.png",
-        "link": "https://www.rewe.de/shop/productList?search=Weißkohl",
-        "comments": {
-            "es": "",
-            "en": "",
-            "de": ""
-        }
+  {
+    "es": "Remolacha",
+    "de": "Rote Bete",
+    "en": "Beetroot",
+    "rewe_id": 697,
+    "unidad": "kg",
+    "categoria": { "es": "Raíz", "en": "Root vegetable", "de": "Wurzelgemüse" },
+    "imagen": "https://img.rewe-static.de/0468444/24567038_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Rote%20Bete",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Col blanca",
+    "de": "Weißkohl",
+    "en": "White cabbage",
+    "rewe_id": 232,
+    "unidad": "kg",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/0570290/24569669_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Weißkohl",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Spitzkohl",
+    "de": "Spitzkohl",
+    "en": "Pointed cabbage",
+    "rewe_id": 233,
+    "unidad": "kg",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/0482366/24569671_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Spitzkohl",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Ajo",
+    "de": "Knoblauch",
+    "en": "Garlic",
+    "rewe_id": 1613,
+    "unidad": "unidad",
+    "categoria": { "es": "Condimento", "en": "Seasoning", "de": "Gewürz" },
+    "imagen": "https://img.rewe-static.de/1041139/21288186_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Knoblauch",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Ajo fresco",
+    "de": "Knoblauch frisch",
+    "en": "Fresh garlic",
+    "rewe_id": 318,
+    "unidad": "kg",
+    "categoria": { "es": "Condimento", "en": "Seasoning", "de": "Gewürz" },
+    "imagen": "https://img.rewe-static.de/0466247/7360210_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Knoblauch",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Cebolla",
+    "de": "Zwiebel",
+    "en": "Onion",
+    "rewe_id": 721,
+    "unidad": "kg",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/9578896/50530242_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Zwiebel",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Pimiento rojo",
+    "de": "Paprika rot",
+    "en": "Red bell pepper",
+    "rewe_id": 289,
+    "unidad": "kg",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/1902921/23275435_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Paprika%20rot",
+    "comments": {
+      "es": "Los pimientos pueden variar mucho en precio según el color y la temporada.",
+      "en": "Bell peppers can vary significantly in price depending on color and season.",
+      "de": "Paprikaschoten können je nach Farbe und Saison stark im Preis variieren."
     }
+  },
+
+  {
+    "es": "Pimiento amarillo",
+    "de": "Paprika gelb",
+    "en": "Yellow bell pepper",
+    "rewe_id": 290,
+    "unidad": "kg",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/0483494/24570153_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Paprika%20gelb",
+    "comments": {
+      "es": "Los pimientos pueden variar mucho en precio según el color y la temporada.",
+      "en": "Bell peppers can vary significantly in price depending on color and season.",
+      "de": "Paprikaschoten können je nach Farbe und Saison stark im Preis variieren."
+    }
+  },
+
+  {
+    "es": "Pimiento verde",
+    "de": "Paprika grün",
+    "en": "Green bell pepper",
+    "rewe_id": 234,
+    "unidad": "kg",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/0483516/24570152_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Paprika%20grün",
+    "comments": {
+      "es": "Los pimientos pueden variar mucho en precio según el color y la temporada.",
+      "en": "Bell peppers can vary significantly in price depending on color and season.",
+      "de": "Paprikaschoten können je nach Farbe und Saison stark im Preis variieren."
+    }
+  },
+
+  {
+    "es": "Pimiento naranja",
+    "de": "Paprika orange",
+    "en": "Orange bell pepper",
+    "rewe_id": 235,
+    "unidad": "kg",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/0483540/24570154_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Paprika%20orange",
+    "comments": {
+      "es": "Los pimientos pueden variar mucho en precio según el color y la temporada.",
+      "en": "Bell peppers can vary significantly in price depending on color and season.",
+      "de": "Paprikaschoten können je nach Farbe und Saison stark im Preis variieren."
+    }
+  },
+
+  {
+    "es": "Cebollino",
+    "de": "Lauchzwiebeln",
+    "en": "Spring onions",
+    "rewe_id": 261,
+    "unidad": "unidad",
+    "categoria": { "es": "Hierba fresca", "en": "Fresh herb", "de": "Frisches Kraut" },
+    "imagen": "https://img.rewe-static.de/0482404/31686352_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Lauchzwiebeln",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Porree",
+    "de": "Porree",
+    "en": "Leek",
+    "rewe_id": 125,
+    "unidad": "unidad",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/8311846/7360610_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Porree",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Berenjena",
+    "de": "Aubergine",
+    "en": "Eggplant",
+    "rewe_id": 262,
+    "unidad": "kg",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/8514957/32078973_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Aubergine",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Calabacín",
+    "de": "Zucchini",
+    "en": "Zucchini",
+    "rewe_id": 260,
+    "unidad": "kg",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/0482161/24570156_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Zucchini",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Jengibre",
+    "de": "Ingwer",
+    "en": "Ginger",
+    "rewe_id": 102,
+    "unidad": "kg",
+    "categoria": { "es": "Raíz", "en": "Root", "de": "Wurzel" },
+    "imagen": "https://img.rewe-static.de/1218820/24569461_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Ingwer",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Tomate (racimo)",
+    "de": "Rispentomaten",
+    "en": "Vine tomatoes",
+    "rewe_id": 660,
+    "unidad": "kg",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/0475360/30888821_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Rispentomaten",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Tomate grande",
+    "de": "Fleischtomaten",
+    "en": "Beef tomato",
+    "rewe_id": 637,
+    "unidad": "kg",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/0475556/24570149_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Fleischtomaten",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Pepino",
+    "de": "Gurke",
+    "en": "Cucumber",
+    "rewe_id": 111,
+    "unidad": "unidad",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/0483303/24569873_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Gurke",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Mini pepinos",
+    "de": "Mini Gurken",
+    "en": "Mini cucumbers",
+    "rewe_id": 165,
+    "unidad": "unidad",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/7238557/28430588_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Mini%20Gurke",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Granada",
+    "de": "Granatapfel",
+    "en": "Pomegranate",
+    "rewe_id": 684,
+    "unidad": "unidad",
+    "categoria": { "es": "Fruta", "en": "Fruit", "de": "Obst" },
+    "imagen": "https://img.rewe-static.de/0475556/24570149_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Granatapfel",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Plátano chiquita",
+    "de": "Chiquita Banane",
+    "en": "Banana",
+    "rewe_id": 601,
+    "unidad": "kg",
+    "categoria": { "es": "Fruta", "en": "Fruit", "de": "Obst" },
+    "imagen": "https://img.rewe-static.de/7230923/24568904_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Chiquita%20Banane",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Plátano Rewe",
+    "de": "REWE Beste Wahl Banane",
+    "en": "Banana",
+    "rewe_id": 100,
+    "unidad": "kg",
+    "categoria": { "es": "Fruta", "en": "Fruit", "de": "Obst" },
+    "imagen": "https://img.rewe-static.de/1028378/21012012_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=REWE%20Beste%20Wahl%20Banane",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Boniato",
+    "de": "Süßkartoffel",
+    "en": "Sweet potato",
+    "rewe_id": 678,
+    "unidad": "kg",
+    "categoria": { "es": "Tubérculo", "en": "Tuber", "de": "Knollen" },
+    "imagen": "https://img.rewe-static.de/0475963/24569668_digital-image.png?imwidth=1680&impolicy=pdp",
+    "link": "https://www.rewe.de/shop/productList?search=Süßkartoffel",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Papas",
+    "de": "Kartoffeln",
+    "en": "Potatoes",
+    "rewe_id": 690,
+    "unidad": "kg",
+    "categoria": { "es": "Tubérculo", "en": "Tuber", "de": "Knollen" },
+    "imagen": "https://img.rewe-static.de/2594391/27954017_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Kartoffeln",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Zanahorias",
+    "de": "Karotten mit Grün",
+    "en": "Carrots with greens",
+    "rewe_id": 265,
+    "unidad": "kg",
+    "categoria": { "es": "Raíz", "en": "Root", "de": "Wurzel" },
+    "imagen": "https://img.rewe-static.de/0483010/7361800_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Karotten%20mit%20Grün",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Aguacate",
+    "de": "Avocado",
+    "en": "Avocado",
+    "rewe_id": 117,
+    "unidad": "unidad",
+    "categoria": { "es": "Fruta", "en": "Fruit", "de": "Obst" },
+    "imagen": "https://img.rewe-static.de/1371623/23269789_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Avocado",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Kohlrabi",
+    "de": "Kohlrabi",
+    "en": "Kohlrabi",
+    "rewe_id": 285,
+    "unidad": "unidad",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/0570311/11327870_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Kohlrabi",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Brócoli",
+    "de": "Broccoli",
+    "en": "Broccoli",
+    "rewe_id": 493,
+    "unidad": "unidad",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/1007433/21403678_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Broccoli",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Hinojo",
+    "de": "Fenchel",
+    "en": "Fennel",
+    "rewe_id": 4515,
+    "unidad": "kg",
+    "categoria": { "es": "Verdura", "en": "Vegetable", "de": "Gemüse" },
+    "imagen": "https://img.rewe-static.de/0483923/11973930_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Fenchel",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Pera verde",
+    "de": "Birne grün",
+    "en": "Green pear",
+    "rewe_id": 3021,
+    "unidad": "kg",
+    "categoria": { "es": "Fruta", "en": "Fruit", "de": "Obst" },
+    "imagen": "https://img.rewe-static.de/0194565/29858079_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Birne%20grün",
+    "comments": { "es": "", "en": "", "de": "" }
+  },
+
+  {
+    "es": "Pera manchada",
+    "de": "Birne bunt",
+    "en": "Speckled pear",
+    "rewe_id": 606,
+    "unidad": "kg",
+    "categoria": { "es": "Fruta", "en": "Fruit", "de": "Obst" },
+    "imagen": "https://img.rewe-static.de/2435716/25626156_digital-image.png",
+    "link": "https://www.rewe.de/shop/productList?search=Birne%20bunt",
+    "comments": { "es": "", "en": "", "de": "" }
+  }
 ]
